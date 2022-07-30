@@ -1,5 +1,5 @@
 # WebPack_StarterKit
-https://stasgill.github.io/WebPack_StarterKit/dist/
+https://stasgill.github.io/webpack_starterkit/dist/
 
 ### Setting up Dev
 
